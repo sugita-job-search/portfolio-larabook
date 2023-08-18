@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+/* ナビバー */
+.navbar {
+    background-color: #CCDEE3;
+}
+
+/* フッター */
+footer {
+    margin-top: 2rem;
+}
+
+/* 検索窓 */
+.top-search {
+    margin-bottom: 2rem;
+}
+
+.top-input {
+    margin-right: 1rem;
+    max-width: 20rem;
+}
+
+/* サイドメニュー */
+.side-menu {
+    text-align: center;
+    min-width: 12rem;
+    margin-top: 1rem;
+}
+
+/* 見出し */
+h2 {
+    font-size: x-large;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+/* ボタン */
+.btn {
+    min-width: 4.5rem;
+}
+
+/* フォーム */
+.form-label {
+    font-weight: bolder;
+}
+
+.form-area {
+    background-color: white;
+    border-radius: 3%;
+}
+
+.white-input {
+    background-color: white;
+}
+
+.white-input:focus {
+    background-color: white;
+}
+
+/* 本と推薦文のカード */
+.book-card th,
+.book-recommendation-card th {
+    width: 8rem;
+}
+
+.book-card .card-footer {
+    background-color: white;
+}
+
+.recommendation-card .card-footer,
+.book-recommendation-card .card-footer {
+    background-color: white;
+    text-align: end;
+}
+
+.book-recommendation-card .book-title {
+    font-weight: bolder;
+    margin-bottom: 0.5rem;
+}
+
+.merit {
+    background-color: #79dfc1;
+}
+
+/* トップページの表示ジャンルのリスト */
+.genre-list {
+    list-style: none;
+}
+
+/* ハートを射抜くボタン */
+.shooting-arrow > .removing-arrow-content {
+    display: none;
+  }
+  
+  /* 矢を抜くボタン */
+  .removing-arrow > .shooting-arrow-content {
+    display: none;
+  }

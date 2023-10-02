@@ -1,6 +1,7 @@
 # 概要
 
-portfolio-bookをLaravelを使って作り直したものです。
+portfolio-bookをLaravelを使って作り直したものです。<br>
+設計書はdocフォルダに入っています。
 
 # 開発環境
 

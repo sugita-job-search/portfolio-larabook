@@ -5,7 +5,7 @@ portfolio-bookをLaravelを使って作り直したものです。<br>
 
 # 開発環境
 
-Windows 10 Version 22H2
+Windows 10 Version 22H2<br>
 PHP 8.0.15<br>
 Laravel 9.27.0<br>
 SQLite 3.35.5<br>
